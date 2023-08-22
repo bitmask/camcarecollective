@@ -1,6 +1,6 @@
-# Null site
+# Cambridge Care Collective
 
-The barest minimum.
+Pan-disability peer support group in Cambridge, UK. 
 
 ## Build the site
 
