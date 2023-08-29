@@ -4,5 +4,5 @@ weight: 5
 header_menu: true
 ---
 
-{{<icon class="fa fa-envelope">}}&nbsp;[camcarecollective@gmail.com](mailto:your-email@your-domain.com)
+{{<icon class="fa fa-envelope">}}&nbsp;[helen.cook@gmail.com](mailto:helen.cook@gmail.com)
 

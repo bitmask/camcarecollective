@@ -6,7 +6,7 @@ weight: 2
 header_menu: true
 ---
 
-We meet Mondays at noon (GMT/BST), except on bank holidays. To join our zoom meetings, email camcarecollective@gmail.com.
+We meet Mondays at noon (GMT/BST), except on bank holidays. To join our zoom meetings, email helen.cook@gmail.com.
 
 ---
 
