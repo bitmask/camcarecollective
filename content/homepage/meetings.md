@@ -31,8 +31,10 @@ The bulk of our meeting is an exercise in which each attendee has a fixed amount
 * We listen without judgement to each other, and let each other tell their stories without interruption.  
 * Emotional release like laughing, crying, sweating, trembling, expressing indignation, yawning, and other things, is welcome and encouraged.  
 * As listeners, we direct 100% of our care and attention on the person speaking, and do not interrupt them to talk about our own thoughts.  
-* When someone is done speaking, we can offer support like "I'm sorry that sounds really hard" or "that's a lot to have going on right now", a smile, a reaction emoji, but avoid giving advice.  We want people to know they're heard, and we don't need to jump into fixing what we see as their problems. 
+* When someone is done speaking, we can thank them, and offer support like "I'm sorry that sounds really hard" or "that's a lot to have going on right now", a smile, a reaction emoji, but avoid giving advice.  We want people to know they're heard, and we don't need to jump into fixing what we see as their problems. 
 * In general we encourage people to take the whole of their allotted time, even if they can't think of what to say. The silence may feel uncomfortable for everyone, but sometimes allowing the space opens up new ideas.
+
+We don't use this time to entertain each other.  It's space that's set aside for you to share where you're at, and if that doesn't come with words, it doesn't need to. We are witnesses to each other's lives (to the degree that we want to share), and the time is yours to receive care and attention. You don't have to "earn it" with words, we can just sit with you in loving silence.  
 
 ---
 
